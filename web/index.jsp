@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
+  <h1>Java Web</h1>
+  <p>
+    Kenan WebDeployment dersi kechir, her shey yaxshi olar. Ev tapshirigi 3 sehifeden ibaret website yaradacayiq
+  </p>
   $END$
   </body>
 </html>
